@@ -1,5 +1,5 @@
 # 6Database_SQLite
- WE created a database using SQLite.
+ We created a database using SQLite.
 ### Here we have csv files for an ecommerce system information. 
 #### - Categories
 #### - Customers
